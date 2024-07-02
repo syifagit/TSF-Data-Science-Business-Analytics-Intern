@@ -13,7 +13,6 @@ During my internship at The Sparks Foundation, I worked on various data science 
 - **Description:** This project involves developing a predictive model that estimates a student's score based on their study hours. The project demonstrates data loading, visualization, preparation, model training, prediction, and evaluation using linear regression.
   
 ## Tools and Technologies
-
 - **Python:** For data analysis and machine learning.
 - **Pandas:** For data manipulation and analysis.
 - **Matplotlib:** For data visualization.
@@ -38,18 +37,16 @@ During my internship at The Sparks Foundation, I worked on various data science 
    - The model showed a strong positive correlation between study hours and percentage scores, indicating that more study hours generally lead to higher scores.
 
 ## Results
-
 The linear regression model developed in the student performance prediction project demonstrated a strong positive correlation between study hours and percentage scores, suggesting that students who study more hours tend to achieve higher scores.
 
 ## Future Work
-
 - Explore other regression techniques for better accuracy.
 - Increase the dataset size for more robust model training.
 - Implement additional evaluation metrics to further assess model performance.
 
-## Usage
-
-To run this project, ensure you have the required libraries by installing them:
-
-```bash
-pip install -r requirements.txt
+## Contact Information
+For any questions or inquiries, feel free to reach out to me:
+- **Name:** Syifa Alzena Joyo
+- **Email:** [syifaalzenajoyo@gmail.com](mailto:syifaalzenajoyo@gmail.com)
+- **LinkedIn:** [Syifa's LinkedIn](https://www.linkedin.com/in/syifaalzenajoyo)
+- **GitHub:** [Syifa's GitHub](https://github.com/syifaalzenajoyo)
